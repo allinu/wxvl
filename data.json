@@ -16468,5 +16468,7 @@
     "https://mp.weixin.qq.com/s/gv7k6uDIkciFoAXdlIolQw": "【漏洞通告】Apache Struts XWork 组件 XXE 漏洞(CVE-2025-68493)",
     "https://mp.weixin.qq.com/s/YlgEO621i98D1R9foFPrBg": "【已复现】腾讯 WeKnora MCP服务命令注入漏洞(CVE-2026-22688)",
     "https://mp.weixin.qq.com/s/7qYw0sxCut5e4EJbh4ujHw": "上周关注度较高的产品安全漏洞(20260105-20260111)",
-    "https://mp.weixin.qq.com/s/EV0ozNPsX5GBNBYp-TtNEA": "CVE-2026-22184 (CVSS 9.3)：zlib 严重漏洞导致全局缓冲区溢出"
+    "https://mp.weixin.qq.com/s/EV0ozNPsX5GBNBYp-TtNEA": "CVE-2026-22184 (CVSS 9.3)：zlib 严重漏洞导致全局缓冲区溢出",
+    "https://mp.weixin.qq.com/s/-KHeodmYpguuA34OstX4kw": "CVE-2025-68428_PoC",
+    "https://mp.weixin.qq.com/s/_3rgR74lYIoxdgu-RbMuRw": "n8n Ni8mare - 未经认证的任意文件读取到远程代码执行链 (CVSS 10.0)"
 }
