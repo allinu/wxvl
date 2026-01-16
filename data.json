@@ -16652,5 +16652,13 @@
     "https://mp.weixin.qq.com/s/xa1X4R2umUfyvAhf-5XJCQ": "智能网联汽车云平台漏洞分析报告（2025）",
     "https://mp.weixin.qq.com/s/velZeusv0yDgOI_rFbonpg": "致远OA rce",
     "https://mp.weixin.qq.com/s/LJElChbwKhLiE8PdB3zP2Q": "Nacos系列漏洞：风险点与综合利用工具详解",
-    "https://mp.weixin.qq.com/s/Ylq1fBNXvgtO-7UM10bVng": "【已复现】OpenCode 远程代码执行漏洞(CVE-2026-22812)"
+    "https://mp.weixin.qq.com/s/Ylq1fBNXvgtO-7UM10bVng": "【已复现】OpenCode 远程代码执行漏洞(CVE-2026-22812)",
+    "https://mp.weixin.qq.com/s/zorOAGoejzYgGjbkQ6oEkA": "shiro反序列化漏洞综合利用,包含（回显执行命令注入内存马）",
+    "https://mp.weixin.qq.com/s/3QOLtuqu0jX5YbmiAFRSPA": "SOC342 — CVE-2025-53770 SharePoint ToolShell 身份绕过与远程代码执行",
+    "https://mp.weixin.qq.com/s/r-i-YsG7aByjODbvz8mQjQ": "漏洞复现 | 大华ICC智能物联管理平台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/PiYjB2IBUgLYwCVHs5M99w": "2026高危端口漏洞",
+    "https://mp.weixin.qq.com/s/Do8CX__aKjtOPZbpVADeww": "威胁组织利用信息窃取器窃取企业云凭证，多因素认证缺失成最大安全漏洞",
+    "https://mp.weixin.qq.com/s/ImO213-xjBIXInTn5GHI6A": "从PhpmyAdmin getshell到某CMS后台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/5nVJwmjV2hKM1G0UUSz4Pw": "React2Shell 图形化漏洞检测利用工具",
+    "https://mp.weixin.qq.com/s/bLbQxfopQOWPcYWK1-u_Mg": "用友NC存在反序列漏洞"
 }
