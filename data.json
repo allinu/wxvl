@@ -17099,5 +17099,8 @@
     "https://mp.weixin.qq.com/s/V-oPrk_3cDM7DHS37BZSWg": "漏洞复现 | itC 中心管理服务器 uploadFileApp.do任意文件上传漏洞",
     "https://mp.weixin.qq.com/s/O4rT0ENFGY-cqKbIrCC0PA": "严重漏洞WhisperPair曝光：黑客可通过蓝牙音频设备实施追踪与窃听",
     "https://mp.weixin.qq.com/s/4xp8wx7QBNTTmPQErCvrFg": "CVE-2025-68493｜Apache Struts 2(S2-069)外部实体（XXE）注入漏洞（POC）",
-    "https://mp.weixin.qq.com/s/BW6dfSR2P-CnAHXEqsg_pw": "构建可扩展的 Windows 驱动漏洞分析器 (第一部分)"
+    "https://mp.weixin.qq.com/s/BW6dfSR2P-CnAHXEqsg_pw": "构建可扩展的 Windows 驱动漏洞分析器 (第一部分)",
+    "https://mp.weixin.qq.com/s/BLVEJwDiCZv0epthliqu1A": "AI 狩猎 0day-自动化漏洞挖掘1000+ cve 和0day",
+    "https://mp.weixin.qq.com/s/R__xiTDK5srXHzgYjuK92g": "畅捷通 mailinactive.php sql注入漏洞",
+    "https://mp.weixin.qq.com/s/vMpoqAR6A-5cMMxPx28c7Q": "复现（CVE-2026-21440）@adonisjs∕bodyparser路径遍历漏洞利用"
 }
